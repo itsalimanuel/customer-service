@@ -1,6 +1,6 @@
 {
   "name": "charlar",
-  "version": "0.1.0",
+  "version": "0.0.1-beta",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -34,5 +34,25 @@
     "prettier": "^2.2.1",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsalimanuel/customer-service.git"
+  },
+  "keywords": [
+    "customer",
+    "service",
+    "platorm",
+    "vuejs",
+    "vue",
+    "chat"
+  ],
+  "author": "Ali Khalouf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsalimanuel/customer-service/issues"
+  },
+  "homepage": "https://github.com/itsalimanuel/customer-service#readme"
 }
